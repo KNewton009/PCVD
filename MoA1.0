@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+@import url("webfonts/TitilliumWeb_SemiBold/stylesheet.css");
+/* CSS Document */
+
+
+.st1 {
+	fill: #EEEFEF;
+	stroke: #000000;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	stroke-width: 0.24;
+	background-color: #000000;
+}
+.st2 {
+	fill: #000000;
+	font-family: Calibri;
+	font-size: 0.416656em;
+	font-weight: bold;
+	background-color: #000000;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+}
+.st3 {fill:#000000;
+	font-family:Calibri;
+	font-size:0.833336em;
+	font-weight:bold
+}
+.st4 {fill:#000000;
+	font-family:Calibri;
+	font-size:0.499992em;
+	font-weight:bold
+}
+.st5 {fill:#000000;
+	font-family:Calibri;
+	font-size:0.583328em
+}
+.st6 {fill:none;
+	fill-rule:evenodd;
+	font-size:12px;
+	overflow:visible;
+	stroke-linecap:square;
+	stroke-miterlimit:3
+}
+.header {
+	font-family: "TitilliumWeb SemiBold";
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 8px;
+	color: #C4D82E;
+}
+#toolStatus{
+	fill: #B9BBBD;
+	
+}
+#zones {
+	fill: #B9BBBD;
+	}
+#zoneTitle{fill: #B9BBBD
+}
+#zoneWrap {fill: #EEEFEF
+}
+
+body {
+	background-color: #414042;
+}
+#statCount1 {
+	fill: #92D7E7
+}
+#statCount2 {
+	fill: #00A1AF
+}
+#statCount3 {
+	fill: #C76F94
+}
+#statCount4 {
+	fill: #895881
+}
+#statCount5 {
+	fill: #82A53C
+}
+#statCount6 {
+	fill: #FFB700
+}
+#statCount7 {
+	fill: #EE4D16
+}
